@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<meta charset="utf-8">
+		<title>Ejemplo de 2 párrafos</title>
+	</head>
+	<body>
+		<p>Esto es un párrafo de Alvaro Ponce.</p>
+		<p>Esto es otro párrafo de Alvaro Ponce.</p>
+	</body>
+</html>
